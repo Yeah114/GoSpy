@@ -1,0 +1,18 @@
+# Build outputs
+/gospy
+*.bin
+omega_launcher-lower-linux
+example/*/main
+example/*/main_local
+example/*/m
+
+# Debug / iteration output logs
+output
+output_*
+
+# Go build cache
+*.test
+*.out
+
+# OS
+.DS_Store
