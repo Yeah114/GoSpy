@@ -2,9 +2,6 @@
 /gospy
 *.bin
 omega_launcher-lower-linux
-example/*/main
-example/*/main_local
-example/*/m
 
 # Debug / iteration output logs
 output
